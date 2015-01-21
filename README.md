@@ -22,5 +22,5 @@ Java files are parsed but not actually compiled agains a classpath.
     /Users/assen/projects/someproject/src/main/java/nl/com/somorg/sercices/MyServiceImpl
     
 # Q & A
-Q: Why the trouble, my IDE can do that much better?
-A: Sure, but IDE can't be run from command line or script. This tool can list 80 files implementing 60 different interfaces.
+Q: Why the trouble, my IDE can do that much better?  
+A: For usage from the command line or scripts. This tool can list 80 files implementing 60 different interfaces.
